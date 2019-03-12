@@ -2,17 +2,17 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Band Natal">
     <display-name lang="pt">Band Natal</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvjockey.gif" />
+    <icon src="http://www.lineup.tv.br/canais/premiere.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="Band Paulista">
     <display-name lang="pt">Band Paulista</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvdagente.gif" />
+    <icon src="http://www.lineup.tv.br/canais/bandnatal.gif|http://www.lineup.tv.br/canais/band.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="Band Rio">
     <display-name lang="pt">Band Rio</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvprimavera.gif|http://www.lineup.tv.br/canais/cjc.gif" />
+    <icon src="http://www.lineup.tv.br/canais/tvuniao.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
 </tv>
